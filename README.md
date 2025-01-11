@@ -9,10 +9,9 @@
 </a>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=prashansa-shrestha.prashansa-shrestha)
 [![Github](https://img.shields.io/github/followers/prashansa-shrestha?label=Follow&style=social)](https://github.com/prashansa-shrestha)
 
-<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk, and I love to learn.
+<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk, and I love to learn.<br/> This is my new Github profile.
 </div>
 
 <h2> About Me </h2>
