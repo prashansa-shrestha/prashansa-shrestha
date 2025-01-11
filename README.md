@@ -5,7 +5,7 @@
 <h1> Namaste! </h1>
 <p align='center'>
   <a target="_blank" align="center">
-  <img align="right" top="250" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="150" height="110" width="140" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 </p>
 
