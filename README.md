@@ -9,7 +9,7 @@
 </a>
 </p>
 
-<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk, and I love to learn!<br/> <br/> <br/> 
+<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk.<br/>I love to learn!<br/> <br/> <br/> 
 
 <h2> About Me </h2>
 
