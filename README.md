@@ -11,14 +11,11 @@
 
 [![Github](https://img.shields.io/github/followers/prashansa-shrestha?label=Follow&style=social)](https://github.com/prashansa-shrestha)
 
-<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk, and I love to learn.<br/> This is my new Github profile.
-</div>
+<div size='20px'> I am Prashansa Shrestha. A computer engineering student at IOE Pulchowk, and I love to learn!<br/> 
 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on improving my knowledge
   
 - 🌱 I’m currently learning Machine Learning
   
